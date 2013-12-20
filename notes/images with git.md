@@ -27,11 +27,7 @@ Adding link to an image.
 ## Sample in README page
 
 
-![sample image](https://raw.github.com/wiki/shinokada/vimnotes/images/someimage.png)
-
-
-
-
+![sample image](https://raw.github.com/wiki/shinokada/vimnotes/images/vimnote1.png)
 
 
 ## Resources
