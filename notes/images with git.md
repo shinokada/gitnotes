@@ -17,8 +17,6 @@ Go to your wiki and add a sample page and add the following.
 
     
     ![sample image](images/vimnote1.png)
-
-
     The above image is added with `![sample image](images/someimage.png)`
     This image can be found here, https://raw.github.com/wiki/shinokada/vimnotes/images/someimage.png
 
@@ -26,7 +24,10 @@ Adding link to an image.
 
     [![Alt attribute text Here](images/someimage.png)](http://google.com)
 
+## Sample in README page
 
+
+![sample image](https://raw.github.com/wiki/shinokada/vimnotes/images/someimage.png)
 
 
 
