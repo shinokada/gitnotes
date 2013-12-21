@@ -1,7 +1,7 @@
 # Images with git
 
     # make a directory and cd to it.
-    $ mkdir ~/Github_wiki && cd -
+    $ mkdir ~/Github_wiki && cd $_
     # clone your wiki
     $ git clone git@github.com:USER/REPO.wiki.git
     # create a image dir and cd to it.
@@ -33,5 +33,5 @@ Adding link to an image.
 ## Resources
 
 [Stackoverflow](http://goo.gl/pWYDnR)
-
+[my github page](https://github.com/shinokada/gitnotes/blob/master/notes/images%20with%20git.md)
 
