@@ -1,11 +1,4 @@
 # Personal git notes
 
-- [diff in vim](./notes/diff\ in\ vim.md)
+[Personal git notes](https://github.com/shinokada/gitnotes/wiki/_pages)
 
-- [git and vim](./notes/git\ and\ vim.md)
-
-- [gitignore](./notes/gitignore.md)
-
-- [Images with git](./notes/images\ with\ git.md)
-
-- [untracked files](./notes/untracked\ files.md)
